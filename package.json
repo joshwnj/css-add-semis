@@ -1,6 +1,6 @@
 {
   "name": "css-add-semis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tiny function to add semicolons to a CSS string.",
   "main": "index.js",
   "scripts": {
